@@ -1,0 +1,9 @@
+Arduino Uno R3
+
+1-channel 5V relay module (with optocoupler if possible)
+
+1× LED (simulating a lamp) + 220 Ω resistor
+
+Optional: 5V DC fan or motor (instead of LED)
+
+Breadboard + jumper wires
