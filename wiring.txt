@@ -1,0 +1,13 @@
+Relay Module (3-pin side):
+
+IN → D7
+
+VCC → 5V
+
+GND → GND
+
+Relay “switch” side (COM/NO):
+
+COM → +5V
+
+NO → LED anode → 220 Ω → GND
